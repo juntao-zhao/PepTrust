@@ -1,0 +1,9 @@
+PepTrust Analysis Results
+==================================================
+
+Optimal Combination Method: msblender
+Total Log-Likelihood: -81260.4914
+Number of Datasets: 5
+Dataset Prefix: pool
+
+This combination method should be used as the ground truth.

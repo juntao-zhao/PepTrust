@@ -1,0 +1,10 @@
+dataset,search_engine,combination_method,trustworthiness
+pool_5,comet,geometric_mean,0.632889866960088
+pool_5,msgf,geometric_mean,0.5668077388149939
+pool_5,tandem,geometric_mean,0.5957936905358037
+pool_5,comet,msblender,0.7982394718415524
+pool_5,msgf,msblender,0.6482265215638855
+pool_5,tandem,msblender,0.8010015022533801
+pool_5,comet,voting,0.7801340402120637
+pool_5,msgf,voting,0.7083837162434502
+pool_5,tandem,voting,0.7663495242864297

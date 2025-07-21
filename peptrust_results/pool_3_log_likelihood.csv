@@ -1,0 +1,4 @@
+dataset,combination_method,log_likelihood
+pool_3,geometric_mean,-19748.383679268096
+pool_3,msblender,-15096.31089827789
+pool_3,voting,-15753.061048824284
