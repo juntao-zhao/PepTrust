@@ -12,4 +12,3 @@ Preliminary evaluations on public proteomics datasets demonstrate that PepTrust 
 
 ## Key Words
 Mass Spectrometry, Peptide identification, ground-truth-absent evaluation, probabilistic framework, truth discovery
-# PepTrust
